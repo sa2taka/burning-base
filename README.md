@@ -1,24 +1,11 @@
-# burning-base
+# Todoing
 
-## Project setup
-```
-yarn install
-```
+## Tasks
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- [ ] 公開機能の追加
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Author
 
-### Lints and fixes files
-```
-yarn lint
-```
+管理者は以下の通りです。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+sa2taka(email: admin@burning-base.xyz)
